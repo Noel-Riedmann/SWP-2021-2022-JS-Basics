@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: gray;
+    font: 1em sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
